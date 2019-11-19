@@ -1,5 +1,13 @@
 # mokpablo
 tp final pablo ifts16 3ro
+# La parte visual del front end esta hecha con:
+* bootstrap
+* php_template_itx
+* jquery
+# La parte visual del backend:
+* la relacionada a firestore esta hecha con MDL (material design lite) 
+* la relacionada a mysql: con php_template_itx
+# El registro de actividad esta hecho con google analytics
 
 # La informacion esta guardada en una base de datos de firestore y en una de mysql.
 * firestore: preguntas - articulos - mensajes de contacto

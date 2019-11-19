@@ -1,0 +1,6 @@
+{
+    "require": {
+        "setasign/fpdi-fpdf": "^2.0",
+        "pear/html_template_it": "^1.3"
+    }
+}

@@ -2,6 +2,9 @@
 tp final pablo ifts16 3ro
 
 # La informacion esta guardada en una base de datos de firestore y en una de mysql.
+* firestore: preguntas - articulos - mensajes de contacto
+* mysql: articulos (otra base de datos distinta con precios detalles de entrega formas de pago etc)
+
 # Cloud Function
 - para hacer los thumbnails de los articulos en firestore utiliza una cloud function
 una para cuando se crean imagenes (createMessage)
